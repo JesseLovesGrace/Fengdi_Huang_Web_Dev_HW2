@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
         readMoreLink.style.display = 'none';
     });
 });
+
 document.addEventListener('DOMContentLoaded', function() {
     const readMoreLink = document.querySelector('.read-more');
     const hiddenParagraphs = document.querySelectorAll('.hidden');
